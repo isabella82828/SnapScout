@@ -1,1 +1,1 @@
-# SnapScout
+# 📸 SnapScout
