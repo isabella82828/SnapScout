@@ -1,6 +1,6 @@
 #  SnapScout
 
-📍Snapscout is a web app that scouts and navigates to photography hotspots in a city by leveraging scraping techniques with Python scripts, AWS, Socket.IO, and the Google Maps API
+📍Snapscout is a web app that scouts and navigates to photography hotspots in a city by leveraging scraping techniques with Python scripts, AWS, Socket.IO, and the Google Maps API.
 
 ## Features 
 
